@@ -4,3 +4,5 @@ changed third line
 changed fourth line
 
 new file line entered to show the conflict
+
+my new changes to push
